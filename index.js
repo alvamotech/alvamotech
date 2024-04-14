@@ -23,7 +23,10 @@ navbar.innerHTML = `<div class="container-fluid">
 const footer = document.getElementById('footer-container');
 footer.innerHTML = `
 <div class="text-center mb-3">
-    <p>Copyright Finley Alva M.O. for Alvamo Tech 2024. All rights reserved.</p>
+    <p>Produced by Finley Owen for Alvamo Tech under the  
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">CC BY-NC-ND</a>
+        license.
+    </p>
     <small>
         This content is available for free via Alvamo Tech, and can be found at
         <a href="${window.location.href}">${window.location.href}</a>.
