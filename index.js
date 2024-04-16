@@ -32,7 +32,9 @@ footer.innerHTML = `
         <a href="${window.location.href}">${window.location.href}</a>.
         Reproducing it for monetary gain or without proper attribution is strictly
         prohibited by the license and may have legal reprocussions under the Australian
-        <i>Copyright Act</i> (1968) or international equivalent.
+        <i>Copyright Act</i> (1968) or international equivalent. Check the 
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">license</a> 
+        before using this content professionally.
     </small>
 </div>
 <ul class="nav justify-content-center">
