@@ -4,3 +4,14 @@
 #footer-container {
     background-color: #4F4789;
 }
+
+body {
+    background-color: #000;
+    padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+
+img.img-display {
+    max-height: 60vh;
+    object-fit: cover; 
+    object-position: center;
+}

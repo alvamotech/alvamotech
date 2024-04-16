@@ -30,9 +30,9 @@ footer.innerHTML = `
     <small>
         This content is available for free via Alvamo Tech, and can be found at
         <a href="${window.location.href}">${window.location.href}</a>.
-        Reproducing it for monetary gain is strictly prohibited by the license 
-        and may have legal reprocussions under the Australian Copyright Act (1968)
-        or international equivalent.
+        Reproducing it for monetary gain or without proper attribution is strictly
+        prohibited by the license and may have legal reprocussions under the Australian
+        <i>Copyright Act</i> (1968) or international equivalent.
     </small>
 </div>
 <ul class="nav justify-content-center">
