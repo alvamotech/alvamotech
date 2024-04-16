@@ -8,13 +8,13 @@ navbar.innerHTML = `<div class="container-fluid">
     <div class="collapse navbar-collapse" id="navbar-main">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-                <a href="/about" class="nav-link">About</a>
+                <a href="/about/" class="nav-link">About</a>
             </li>
             <li class="nav-item">
-                <a href="/blog" class="nav-link">Blog</a>
+                <a href="/blog/" class="nav-link">Blog</a>
             </li>
             <li class="nav-item">
-                <a href="/services" class="nav-link">Services</a>
+                <a href="/services/" class="nav-link">Services</a>
             </li>
         </ul>
     </div>
@@ -40,13 +40,13 @@ footer.innerHTML = `
         <a href="/" class="nav-link">Home</a>
     </li>
     <li class="nav-item">
-        <a href="/about" class="nav-link">About</a>
+        <a href="/about/" class="nav-link">About</a>
     </li>
     <li class="nav-item">
-        <a href="/blog" class="nav-link">Blog</a>
+        <a href="/blog/" class="nav-link">Blog</a>
     </li>
     <li class="nav-item">
-        <a href="/services" class="nav-link">Services</a>
+        <a href="/services/" class="nav-link">Services</a>
     </li>
 </ul>
 `
